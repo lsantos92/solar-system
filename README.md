@@ -13,6 +13,8 @@ O código também gera vetores com a posição de cada órbita dos planetas e cr
 
 O código também utiliza a biblioteca FreeType para escrever texto na janela do programa. A biblioteca FreeType é uma biblioteca de software livre que permite que o código carregue e renderize fontes TrueType. Isso é útil para exibir informações adicionais na tela, como nomes de planetas ou informações sobre as órbitas.
 
+**Desenvolvido no Visual Studio**
+
 ## Exemplos
 Visão Geral do sistema solar
 ![1](SistemaSolar_1.png)
